@@ -12,7 +12,7 @@ We appreciate your interest in contributing to our project! Here are a few guide
 ## Guidelines
 - Ensure your code is clean and well-documented.
 - Follow the project's coding style.
-- Test your changes thoroughly before submitting.
+- Test your changes thoroughly (preferably with unit tests) before submitting.
 - Respect the existing structure and organization of the project.
 
 Thank you for contributing!
